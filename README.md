@@ -79,20 +79,9 @@ Example response:
   "day_of_year": "029"
 }
 ```
-📸 Preview
+📸 Preview :
 
-Add a screenshot or GIF here:
-
-![Clock Preview](preview.png)
-
-
-You can create a GIF using tools like:
-
-ScreenToGif (Windows)
-
-OBS Studio
-
-LICEcap
+<img width="701" height="716" alt="Screenshot 2026-01-29 213648" src="https://github.com/user-attachments/assets/c8c89cef-979d-40af-a604-4d2169ad9e6b" />
 
 ---
 💡 Learning Outcomes
@@ -113,4 +102,5 @@ Real-time UI updates
 Jitendra KanhaiyaSingh Gaherwar
 B.Tech IT | Data & AI Developer
 Focused on building practical projects with Python & AI.
----
+
+
