@@ -32,3 +32,19 @@ Flask-Clock-App/
 ├── styles.css
 └── script.js
 ```
+---
+- `app.py` – Flask server & API   
+- `index.html` – Main UI layout   
+- `styles.css` – Styling & clock design   
+- `script.js` – Clock logic & animation   
+
+---
+
+## 🛠 Installation & Run
+
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/flask-clock-app.git
+cd flask-clock-app
+```
+---
