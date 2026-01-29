@@ -19,4 +19,16 @@ This project is perfect for beginners who want to understand how frontend and ba
 ---
 
 ## 🗂 Project Structure
-
+```
+Flask-Clock-App/
+│
+├── app.py
+├── requirements.txt
+│
+├── templates/
+│ └── index.html
+│
+└── static/
+├── styles.css
+└── script.js
+```
