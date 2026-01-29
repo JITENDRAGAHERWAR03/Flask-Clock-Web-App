@@ -52,12 +52,12 @@ cd flask-clock-app
 ```
 pip install -r requirements.txt
 ```
-
+---
 3.Run the app:
 ```
 python app.py
 ```
-
+---
 4.Open in browser:
 ```
 http://127.0.0.1:5000/
@@ -66,19 +66,19 @@ http://127.0.0.1:5000/
 🔌 API Endpoint
 
 You can also fetch UTC time from:
-
+```
 GET /api/time
-
+```
 
 Example response:
-
+```
 {
   "utc_time": "2026-01-29T15:42:10+00:00",
   "timezone": "Etc/UTC",
   "day_of_week": "Thursday",
   "day_of_year": "029"
 }
-
+```
 📸 Preview
 
 Add a screenshot or GIF here:
@@ -94,6 +94,7 @@ OBS Studio
 
 LICEcap
 
+---
 💡 Learning Outcomes
 
 Flask routing & API creation
@@ -106,8 +107,10 @@ CSS positioning & transforms
 
 Real-time UI updates
 
+---
 👨‍💻 Author
 
 Jitendra KanhaiyaSingh Gaherwar
 B.Tech IT | Data & AI Developer
 Focused on building practical projects with Python & AI.
+---
